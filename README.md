@@ -42,7 +42,7 @@ Project Model workflow
 
 Flowchart of Yolov3
 
-<img src="https://github.com/user-attachments/assets/33944fa3-d06b-4f1e-b4cf-67c46bcd3102" alt="V3" width="200"/>
+<img src="https://github.com/user-attachments/assets/33944fa3-d06b-4f1e-b4cf-67c46bcd3102" alt="V3" width="300"/>
 
 ### Yolov5
 
@@ -50,7 +50,7 @@ Flowchart of Yolov3
 
 Flowchart of Yolov5
 
-<img src="https://github.com/user-attachments/assets/9508a8bb-f476-42a2-beb7-c6cb61be4c01" alt="V5" width="200"/>
+<img src="https://github.com/user-attachments/assets/9508a8bb-f476-42a2-beb7-c6cb61be4c01" alt="V5" width="300"/>
 
 
 ### Yolov8
@@ -59,7 +59,7 @@ Flowchart of Yolov5
 
 Flowchart of Yolov8
 
-<img src="https://github.com/user-attachments/assets/1f04c712-f7ca-48b7-b319-3b2c332b1116" alt="V8" width="200"/>
+<img src="https://github.com/user-attachments/assets/1f04c712-f7ca-48b7-b319-3b2c332b1116" alt="V8" width="400"/>
 
 ## Training
 The YOLO model can be trained on custom datasets. Follow the training steps outlined in the yolo_aplaca.ipynb notebook for training the model. Make sure to update the dataset paths in the configuration file before running the training.
