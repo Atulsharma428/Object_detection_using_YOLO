@@ -23,7 +23,6 @@ nc: number_of_classes
 names: ['class1', 'class2', ...]
 ```
 ## Usage
-Inference on Videos
 To perform inference on a video, use the predict_video.py script. The script allows you to detect objects in a video stream and save the output with bounding boxes.
 ```python
 predict_video.py --source path_to_video --weights path_to_model_weights --output output_path
