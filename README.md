@@ -39,7 +39,7 @@ predict_video.py --source path_to_video --weights path_to_model_weights --output
 [Visit documentation](https://docs.ultralytics.com/models/yolov5/#performance-metrics)
 
 Flowchart of Yolov3
-![V3](https://github.com/user-attachments/assets/33944fa3-d06b-4f1e-b4cf-67c46bcd3102)
+<img src="https://github.com/user-attachments/assets/33944fa3-d06b-4f1e-b4cf-67c46bcd3102" alt="V3" width="200"/>
 
 ### Yolov5
 
