@@ -70,12 +70,10 @@ python train.py --img 640 --batch 16 --epochs 50 --data sample.yaml --cfg yolov5
 ```
 ## Results
 Once the model is trained, you can visualize the predictions using the predict_video.py script. Sample results are shown below: 
-![alpaca_result](https://github.com/user-attachments/assets/ffa56319-c854-4c1b-a84f-ce248b869bfd)
 
-![Construction_tools_dataset_result](https://github.com/user-attachments/assets/1504b947-a86d-410f-8ae9-04076910c7b8)
+<img src="https://github.com/user-attachments/assets/ffa56319-c854-4c1b-a84f-ce248b869bfd" alt="alpaca_result" width="400"/>
 
-![Welding_dataset_result](https://github.com/user-attachments/assets/95b505a0-c280-4dc0-a032-61a75285d1cb)
+<img src="https://github.com/user-attachments/assets/1504b947-a86d-410f-8ae9-04076910c7b8" alt="Construction_tools_dataset_result" width="400"/>
 
-
-
+<img src="https://github.com/user-attachments/assets/95b505a0-c280-4dc0-a032-61a75285d1cb" alt="Welding_dataset_result" width="400"/>
 
