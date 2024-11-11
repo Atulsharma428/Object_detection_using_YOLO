@@ -5,6 +5,8 @@ This project demonstrates how to use YOLO (You Only Look Once) for object detect
 ## Table of Contents
 - [Dataset](#dataset)
 - [Usage](#usage)
+- [Workflow of the model](workflow)
+- [YOLO versions](#versions)
 - [Training](#training)
 - [Results](#results)
   
@@ -26,6 +28,34 @@ To perform inference on a video, use the predict_video.py script. The script all
 ```python
 predict_video.py --source path_to_video --weights path_to_model_weights --output output_path
 ```
+
+## Workflow of the model
+![Model workflow](https://github.com/user-attachments/assets/e14ea41c-5a21-49b2-b4f4-998abbceec8d)
+
+
+
+## YOLO versions
+### Yolov3
+[Visit documentation](https://docs.ultralytics.com/models/yolov5/#performance-metrics)
+
+Flowchart of Yolov3
+![V3](https://github.com/user-attachments/assets/33944fa3-d06b-4f1e-b4cf-67c46bcd3102)
+
+### Yolov5
+
+[Visit documentation](https://docs.ultralytics.com/models/yolov3/#supported-tasks-and-modes)
+
+Flowchart of Yolov5
+![V5](https://github.com/user-attachments/assets/9508a8bb-f476-42a2-beb7-c6cb61be4c01)
+
+### Yolov8
+[Visit documentation](https://docs.ultralytics.com/models/yolov8/)
+
+Flowchart of Yolov8
+![V8](https://github.com/user-attachments/assets/1f04c712-f7ca-48b7-b319-3b2c332b1116)
+
+
+
 ## Training
 The YOLO model can be trained on custom datasets. Follow the training steps outlined in the yolo_aplaca.ipynb notebook for training the model. Make sure to update the dataset paths in the configuration file before running the training.
 
