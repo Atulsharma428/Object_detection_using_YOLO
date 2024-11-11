@@ -33,7 +33,7 @@ predict_video.py --source path_to_video --weights path_to_model_weights --output
 
 Project Model workflow
 
-<img src="https://github.com/user-attachments/assets/e14ea41c-5a21-49b2-b4f4-998abbceec8d" alt="Model workflow" width="200"/>
+<img src="https://github.com/user-attachments/assets/e14ea41c-5a21-49b2-b4f4-998abbceec8d" alt="Model workflow" width="400"/>
 
 ## YOLO versions
 ### Yolov3
